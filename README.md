@@ -1,4 +1,4 @@
-# bahurinahiawana..github.io
+# bahurinahiawana.github.io
 
 - [bahurinahiawana.com]
 
