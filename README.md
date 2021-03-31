@@ -1,15 +1,15 @@
 # bahurinahiawana.github.io
 
-- [bahurinahiawana.com](bahurinahiawana.com)
+- [bahurinahiawana.com](http://bahurinahiawana.com)
 
-- [bahurinahiawana.in](bahurinahiawana.in)
+- [bahurinahiawana.in](http://bahurinahiawana.in)
 
-- [बहुरिनहिंआवना.com](बहुरिनहिंआवना.com)
+- [बहुरिनहिंआवना.com](http://बहुरिनहिंआवना.com)
 
-- [www.bahurinahiawana.com](www.bahurinahiawana.com)
+- [www.bahurinahiawana.com](http://www.bahurinahiawana.com)
 
-- [www.bahurinahiawana.in](www.bahurinahiawana.in)
+- [www.bahurinahiawana.in](http://www.bahurinahiawana.in)
 
-- [www.बहुरिनहिंआवना.com](www.बहुरिनहिंआवना.com)
+- [www.बहुरिनहिंआवना.com](http://www.बहुरिनहिंआवना.com)
 
 
