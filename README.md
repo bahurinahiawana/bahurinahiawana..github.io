@@ -1,12 +1,12 @@
 # bahurinahiawana.github.io
 
-- [bahurinahiawana.com]
+- <bahurinahiawana.com>
 
 - [bahurinahiawana.in]
 
 - [बहुरिनहिंआवना.com]
 
-- [www.bahurinahiawana.com]
+- <www.bahurinahiawana.com>
 
 - [www.bahurinahiawana.in]
 
