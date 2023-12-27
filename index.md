@@ -3,16 +3,17 @@
 ## अंक:
 
 - २०२१
-  + [जनवरी २०२१ से जून २०२१](2021/BNA New Jan21.pdf)
-  + [जुलाई २०२१ से दिसंबर २०२१](2021/BNA Full.pdf)
+  + [जनवरी २०२१ से जून २०२१](2021/BNA-January-2021-to-June-2021.pdf)
+  + [जुलाई २०२१ से दिसंबर २०२१](2021/BNA-July-2021-to-December-2021.pdf)
 - २०२२
-  + [जनवरी २०२२ से जून २०२२](2022/BNA Jan-2022 to June 2022.pdf)
-  + [जुलाई २०२२ से सितंबर २०२२](2022/BNA July-2022 to Sept 2022.pdf)
-  + [अक्टूबर २०२२ से दिसंबर २०२२](2022/BNA Oct-2022 to Dec 2022.pdf)
+  + [जनवरी २०२२ से जून २०२२](2022/BNA-January-2022-to-June-2022.pdf)
+  + [जुलाई २०२२ से सितंबर २०२२](2022/BNA-July-2022-to-September-2022.pdf)
+  + [अक्टूबर २०२२ से दिसंबर २०२२](2022/BNA-October-2022-to-December-2022.pdf)
 - २०२३
-  + [जनवरी २०२३ से मार्च २०२३](2023/BNA Jan-2023 to March 2023.pdf)
-  + [अप्रैल २०२३ से जून २०२३](2023/BNA April-2023 to June 2023.pdf)
-  + [जुलाई २०२३ से सितंबर २०२३](2023/BNA July-2023 to September 2023.pdf)
+  + [जनवरी २०२३ से मार्च २०२३](2023/BNA-January-2023-to-March-2023.pdf)
+  + [अप्रैल २०२३ से जून २०२३](2023/BNA-April-2023-to-June-2023.pdf)
+  + [जुलाई २०२३ से सितंबर २०२३](2023/BNA-July-2023-to-September-2023.pdf)
+  + [अक्टूबर २०२३ से दिसंबर २०२३](2023/BNA-October-2023-to-December-2023.pdf)
 
 ## Alias:
 - [www.bahurinahiawana.com](http://www.bahurinahiawana.com)
